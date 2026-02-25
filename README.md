@@ -1,4 +1,5 @@
 Proje Hakkında
+
 Bu proje, Microsoft Power BI kullanılarak geliştirilmiş etkileşimli bir Satış Analizi Dashboard çalışmasıdır.
 
 Dashboard, 2022–2023 yılları arasındaki satış performansını bölge, kategori ve zaman bazında analiz etmeyi amaçlamaktadır.
