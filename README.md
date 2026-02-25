@@ -22,6 +22,7 @@ Ardından Power BI içerisinde görseller hizalanarak ve optimize edilerek kulla
 Bu çalışma, veri analizi becerilerinin yanı sıra tasarım ve arayüz farkındalığını da göstermektedir.
 
 Proje Amaçları
+
 Genel satış performansını analiz etmek
 
 Bölgesel satış karşılaştırması yapmak
@@ -33,6 +34,7 @@ Yıllık ve aylık trendleri incelemek
 Filtreleme ile dinamik analiz imkanı sunmak
 
 Veri Seti
+
 Kullanılan veri seti şu alanları içermektedir:
 
 Ürün Adı
@@ -50,6 +52,7 @@ Yıl (2022–2023)
 Müşteri Sayısı
 
 Dashboard Bileşenleri
+
 1) KPI Kartları
 
 Toplam Satış
@@ -80,7 +83,8 @@ Yıl filtresi (2022–2023)
 
 Ay filtresi (Ocak–Aralık)
 
- Kullanılan Teknolojiler
+Kullanılan Teknolojiler
+ 
 Microsoft Power BI
 
 Veri Modelleme
@@ -92,6 +96,7 @@ Etkileşimli görselleştirmeler
 Bing Maps entegrasyonu
 
  Elde Edilen İçgörüler
+ 
 Bazı bölgeler toplam satışta diğerlerinden daha yüksek performans göstermektedir.
 
 Elektronik ve Beyaz Eşya kategorileri satışlarda önemli paya sahiptir.
@@ -100,8 +105,6 @@ Satışlar yıllara ve aylara göre değişkenlik göstermektedir.
 
 Harita görselleştirmesi bölgesel yoğunluğu net şekilde ortaya koymaktadır.
 
- Projenin Amacı
-Bu çalışma, Power BI yetkinliklerini göstermek amacıyla hazırlanmış bir portföy projesidir.
 
 Özellikle şu konulara odaklanılmıştır:
 
@@ -115,6 +118,7 @@ Veri hikayeleştirme
 
 English Version
  Project Overview
+ 
 This project is an interactive Sales Analysis Dashboard developed in Microsoft Power BI.
 It provides a comprehensive overview of sales performance across different regions, product categories, and time periods (2022–2023).
 
@@ -150,6 +154,7 @@ Monitor yearly and monthly trends
 Provide interactive filtering for better insights
 
  Dataset
+ 
 The dataset used in this project includes:
 
 Product Name
@@ -202,6 +207,7 @@ Year filter (2022–2023)
 Month filter (January–December)
 
 Tools & Technologies
+
 Microsoft Power BI
 
 Data Modeling
