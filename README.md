@@ -25,7 +25,7 @@ Dashboard, 2022–2023 yılları arasındaki satış performansını bölge, kat
 
 Bu çalışma, veri analizi becerilerinin yanı sıra tasarım ve arayüz farkındalığını da göstermektedir.
 
-Proje Amaçları
+## Proje Amaçları
 
 Genel satış performansını analiz etmek
 
@@ -37,7 +37,7 @@ Yıllık ve aylık trendleri incelemek
 
 Filtreleme ile dinamik analiz imkanı sunmak
 
-Veri Seti
+## Veri Seti
 
 Kullanılan veri seti şu alanları içermektedir:
 
@@ -55,7 +55,7 @@ Yıl (2022–2023)
 
 Müşteri Sayısı
 
-Dashboard Bileşenleri
+## Dashboard Bileşenleri
 
 1) KPI Kartları
 
@@ -87,7 +87,7 @@ Dashboard Bileşenleri
 
  -Ay filtresi (Ocak–Aralık)
 
- -Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
  
 Microsoft Power BI
 
@@ -108,7 +108,7 @@ Satışlar yıllara ve aylara göre değişkenlik göstermektedir.
 Harita görselleştirmesi bölgesel yoğunluğu net şekilde ortaya koymaktadır.
 
 
-Özellikle şu konulara odaklanılmıştır:
+## Özellikle şu konulara odaklanılmıştır:
 
 KPI oluşturma
 
@@ -119,7 +119,7 @@ Veri analizi
 Veri hikayeleştirme
 
 
-Nasıl Kullanılır:
+## Nasıl Kullanılır:
 
 1-Burdan .pbix dosyasını indirin
 2-Microsoft Power BI Desktop'ta açın
@@ -138,7 +138,7 @@ It provides a comprehensive overview of sales performance across different regio
 The dashboard enables users to analyze total sales, average sales, customer count, regional distribution, and product category performance through dynamic visualizations.
 
 
- Dashboard Design
+##  Dashboard Design
 The dashboard layout and background design were custom-created using Microsoft PowerPoint before being imported into Power BI as a background template.
 
 This approach allowed for:
@@ -155,7 +155,7 @@ The final visual layout was then aligned and optimized within Power BI to ensure
 
 This demonstrates not only data analysis skills but also UI/UX awareness and dashboard design capability.
 
-Project Objectives
+## Project Objectives
 Analyze overall sales performance
 
 Compare regional sales distribution
@@ -166,7 +166,7 @@ Monitor yearly and monthly trends
 
 Provide interactive filtering for better insights
 
- Dataset
+ ## Dataset
  
 The dataset used in this project includes:
 
@@ -186,7 +186,7 @@ Customer Count
 
 
 
-Dashboard Components
+## Dashboard Components
 The dashboard includes the following visual elements:
 
 1) KPI Cards
@@ -219,7 +219,7 @@ Slicers:
 
 -Month filter (January–December)
 
-Tools & Technologies
+## Tools & Technologies
 
 Microsoft Power BI
 
@@ -229,7 +229,7 @@ Interactive Visualizations
 
 Bing Maps Integration
 
- Key Insights
+## Key Insights
 Certain regions outperform others in total sales.
 
 Product categories such as Electronics and White Goods contribute significantly to revenue.
@@ -238,7 +238,7 @@ Sales distribution varies across years and months.
 
 Geographic visualization helps identify regional demand density.
 
- How to Use
+ ## How to Use
 1-Download the .pbix file from this repository.
 
 2-Open it in Microsoft Power BI Desktop.
