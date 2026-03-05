@@ -120,6 +120,7 @@ Veri hikayeleştirme
 
 
 Nasıl KUllanılır:
+
 1-Burdan .pbix dosyasını indirin
 2-Microsoft Power BI Desktop'ta açın
 3-Gerekirse,verileri yeniden bağlayın
