@@ -119,12 +119,13 @@ Veri analizi
 Veri hikayeleştirme
 
 
-Nasıl KUllanılır:
+Nasıl Kullanılır:
 
 1-Burdan .pbix dosyasını indirin
 2-Microsoft Power BI Desktop'ta açın
 3-Gerekirse,verileri yeniden bağlayın
 4-Harita görsellerini şu yoldan etkinkeştirin:
+
 -Dosya|Seçenekler|Genel|Harita ve Doldurulmuş Harita Görsellerini etkinleştirin
 
 ## English Version
