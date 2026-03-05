@@ -93,8 +93,6 @@ Microsoft Power BI
 
 Veri Modelleme
 
-DAX ölçüleri
-
 Etkileşimli görselleştirmeler
 
 Bing Maps entegrasyonu
@@ -121,6 +119,7 @@ Veri analizi
 Veri hikayeleştirme
 
 English Version
+
  Project Overview
  
 This project is an interactive Sales Analysis Dashboard developed in Microsoft Power BI.
@@ -215,8 +214,6 @@ Tools & Technologies
 Microsoft Power BI
 
 Data Modeling
-
-DAX (for calculated measures)
 
 Interactive Visualizations
 
