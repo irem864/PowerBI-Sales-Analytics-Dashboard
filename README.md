@@ -6,7 +6,7 @@
 
 ![Dashboard](Dashboard.png)
 
-###Data Model
+### Data Model
 
 ![Data Model](data_model.png)
 
@@ -118,7 +118,15 @@ Veri analizi
 
 Veri hikayeleştirme
 
-English Version
+
+Nasıl KUllanılır:
+1-Burdan .pbix dosyasını indirin
+2-Microsoft Power BI Desktop'ta açın
+3-Gerekirse,verileri yeniden bağlayın
+4-Harita görsellerini şu yoldan etkinkeştirin:
+-Dosya|Seçenekler|Genel|Harita ve Doldurulmuş Harita Görsellerini etkinleştirin
+
+## English Version
 
  Project Overview
  
@@ -239,6 +247,7 @@ Geographic visualization helps identify regional demand density.
 
 File → Options → Global → Security → Enable Map and Filled Map visuals
  Purpose
+ 
 This project was developed as a portfolio project to demonstrate Power BI skills including:
 
 Data modeling
