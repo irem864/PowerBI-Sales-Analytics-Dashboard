@@ -1,3 +1,11 @@
+# Power BI Sales Dashboard
+
+## Dashboard
+![Dashboard](Dashboard.png)
+
+## Data Model
+![Data Model](data_model.png)
+
 Proje Hakkında
 
 Bu proje, Microsoft Power BI kullanılarak geliştirilmiş etkileşimli bir Satış Analizi Dashboard çalışmasıdır.
