@@ -3,9 +3,11 @@
 ## Türkçe / Turkish
 
 ### Dashboard
+
 ![Dashboard](Dashboard.png)
 
 ###Data Model
+
 ![Data Model](data_model.png)
 
 Proje Hakkında
